@@ -1,6 +1,6 @@
 
  import java.util.*;
- public class main {
+ public class Main {
     public static void main(String[] args) {
         Personaggio p1 = new Personaggio("Samurai", 80, 70, 60);
         PersonaggioLegend pl1 = new PersonaggioLegend("Shogun", 90, 80, 70, 100);
